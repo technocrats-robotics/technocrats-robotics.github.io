@@ -1,7 +1,7 @@
 
 // homepage
  .bg-img { 
-        background-image: url(demo.jpg) ;
+        background-image: url(../public/background.jpg) ;
         background-position: center center;
         background-repeat:  no-repeat;
         background-attachment: fixed;

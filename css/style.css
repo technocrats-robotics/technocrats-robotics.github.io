@@ -206,7 +206,7 @@ a.nav-item:hover  {
 }
 
 html {
-    background: url(https://github.com/technocrats-robotics/technocrats-robotics.github.io/blob/master/public/background.jpg)
+    background: url("https://github.com/technocrats-robotics/technocrats-robotics.github.io/blob/master/public/background.jpg")
     no-repeat center center fixed #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;

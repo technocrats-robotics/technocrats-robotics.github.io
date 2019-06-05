@@ -1,6 +1,11 @@
 
 // homepage
-.main-content{
-   background-color: white;
-   color : #4a4a4a;
-}
+ .bg-img { 
+        background-image: url(demo.jpg) ;
+        background-position: center center;
+        background-repeat:  no-repeat;
+        background-attachment: fixed;
+        background-size:  cover;
+        background-color: #999;
+
+ }

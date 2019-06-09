@@ -247,3 +247,15 @@ a { color: white; text-decoration: none; }
   }
 }
 
+.nav-center li a:before{
+  content: '';
+  width: 60px;
+  position: absolute;
+  border-bottom: 8px solid #ff0000;
+  bottom: 0;
+  right: 350px;
+  transition: 0.7s all;
+}
+.nav-center li a:hover:before{
+  right: 0;
+}

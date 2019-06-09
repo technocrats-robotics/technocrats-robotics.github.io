@@ -247,8 +247,8 @@ a { color: white; text-decoration: none; }
   }
 }
 
-.nav-center li a:before{
-  content: '';
+.nav a:before{
+  content:";
   width: 60px;
   position: absolute;
   border-bottom: 8px solid #00ff00;
@@ -256,6 +256,6 @@ a { color: white; text-decoration: none; }
   right: 350px;
   transition: 0.7s all;
 }
-.nav-center li a:hover:before{
+.nav a:hover:before{
   right: 0;
 }

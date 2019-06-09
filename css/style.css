@@ -251,7 +251,7 @@ a { color: white; text-decoration: none; }
   content: '';
   width: 60px;
   position: absolute;
-  border-bottom: 8px solid #ff0000;
+  border-bottom: 8px solid #00ff00;
   bottom: 0;
   right: 350px;
   transition: 0.7s all;

@@ -1,4 +1,4 @@
-.header-nav{
+.header-navbar{
   color:#4a4a4a;
 }
 
@@ -38,28 +38,28 @@ input:focus, textarea:focus, input[type]:focus {
 }
 
 /* navigation */
-.nav {
+.navbar {
     background-color: #0c0f0f;
     border-bottom:solid white; 
 }
 
-.nav a {
+.navbar a {
     color: whitesmoke;
 }
 
-a.nav-item.is-tab.is-active {
+a.navbar-item.is-tab.is-active {
     border-bottom-color: #dd7325;
     border-width: 2px;
     color: whitesmoke;
 }
 
-a.nav-item.is-tab:hover {
+a.navbar-item.is-tab:hover {
     border-bottom-color: #dd7325;
     border-width: 2px;
     color: #dd7325;
 }
 
-a.nav-item:hover  {
+a.navbar-item:hover  {
     color: #dd7325;
 }
 
@@ -129,7 +129,7 @@ a.nav-item:hover  {
     font-weight: 100;
 }
 
-.card-content-nav {
+.card-content-navbar {
     padding-top: 10px;
 }
 
@@ -209,10 +209,10 @@ a.nav-item:hover  {
 html {
     background: url("../public/background2.jpg")
     no-repeat center center fixed #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size:;
+    -moz-background-size:;
+    -o-background-size:;
+    background-size:cover;
 }
 @bg: 	#FFFFF0;
 @primary: #FFFFF0;
@@ -248,7 +248,7 @@ a { color: white; text-decoration: none; }
   }
 }
 
-#nav a:before{
+#navbar a:before{
   content: ";
   width: 60px;
   position: absolute;
@@ -257,6 +257,6 @@ a { color: white; text-decoration: none; }
   right: 350px;
   transition: 0.7s all;
 }
-#nav a:hover:before{
+#navbar a:hover:before{
   right: 0;
 }

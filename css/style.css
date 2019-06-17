@@ -209,9 +209,9 @@ a.navbar-item:hover  {
 html {
     background: url("../public/background2.jpg")
     no-repeat center center fixed #000;
-    -webkit-background-size:;
-    -moz-background-size:;
-    -o-background-size:;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
     background-size:cover;
 }
 @bg: 	#FFFFF0;

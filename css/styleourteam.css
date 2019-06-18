@@ -25,12 +25,12 @@ body{
 }
 .pe{
   float: left;
-  width: calc(100% / 6);
+  width: calc(100% / 7);
   overflow: hidden;
   background: #ddd;
   padding: 40px 0;
   transition: 0.4s;
-  margin:0 10px 10px 0;
+  margin:0 20px 20px 0;
 
 }
 .pe:hover{

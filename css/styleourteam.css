@@ -30,7 +30,7 @@ body{
   background: #ddd;
   padding: 40px 0;
   transition: 0.4s;
-  margin:0 auto;
+  margin:0 10px 10px 0;
 
 }
 .pe:hover{

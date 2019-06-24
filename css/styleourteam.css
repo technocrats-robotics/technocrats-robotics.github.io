@@ -25,7 +25,7 @@ body{
 }
 .pe{
   float: left;
-  width: calc(100% / 3);
+  width: calc(100% / 5);
   overflow: hidden;
   background: #ddd;
   padding: 40px 0;

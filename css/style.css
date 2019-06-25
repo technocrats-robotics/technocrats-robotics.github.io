@@ -2,6 +2,11 @@
   color:#4a4a4a;
 }
 
+.aria-hidden{
+  color:#4a4a4a;
+}
+
+
 /* html/body/font-fixes */
 body, input, textarea, .button {
     font-family: 'Roboto Condensed', sans-serif;
